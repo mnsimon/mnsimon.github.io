@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Hire Matt
+title: Matt-S-Jekyll
 
 # Your name to show in the footer
 author: Matt Simoncavage
@@ -16,8 +16,8 @@ author: Matt Simoncavage
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://mnsimon.github.io. "
-    - Learn markdown: " "
+    - Beautiful Jekyll: "https:beautifuljekyll.com "
+    - Learn markdown: "https://www.markdowntutorial.com/ "
     - Getting Started: "getstarted"
   Table Demo: "table-demo"
   Author's home: " "
