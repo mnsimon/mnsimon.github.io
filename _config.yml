@@ -16,7 +16,7 @@ author: Matt Simoncavage
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: " "
+    - Beautiful Jekyll: "https://mnsimon.github.io. "
     - Learn markdown: " "
     - Getting Started: "getstarted"
   Table Demo: "table-demo"
